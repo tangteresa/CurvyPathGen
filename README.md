@@ -9,5 +9,5 @@
 
 `IMPORTANT:` the path generation is based off a typical Pygame coordinate system, where the origin is in the top left corner and the positive y axis points downward instead of upward, so that generated paths may easily be plotted in a game developed with Pygame. The generator is idealized for paths that move from the top of the screen to the bottom of the screen. 
 
-**See `exampleCubic1`, `exampleCubic2`, and `exampleCubic3` (cubic path, 3 randomly paths generated, start point was (0, 0), end point was (0, 10)) for examples path generations.** 
+**See `exampleCubic1`, `exampleCubic2`, and `exampleCubic3` (cubic path, 3 randomly paths generated, start point was (0, 0), end point was (0, 10)) for example path generations.** 
 
